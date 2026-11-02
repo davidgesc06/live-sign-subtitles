@@ -1,0 +1,6 @@
+# Normalize text files in the repository
+* text=auto
+
+# Each Maven Wrapper script needs the line endings of its own platform
+mvnw text eol=lf
+*.cmd text eol=crlf

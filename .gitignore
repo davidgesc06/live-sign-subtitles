@@ -1,0 +1,21 @@
+# Maven build output
+target/
+
+# Eclipse workspace files (regenerated when importing the Maven project)
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+
+# Vosk speech models (large files, download instructions in README)
+models/
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# Windows
+Thumbs.db
+desktop.ini
