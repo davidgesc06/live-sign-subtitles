@@ -54,6 +54,6 @@ Mezcla estéreo no aparece entre los dispositivos del PC de David. Plan:
 
 ## Estado actual
 
-- Hecho: esqueleto del proyecto Maven con paquetes MVC, Maven Wrapper, `.gitignore`, README y este archivo. Compila con `mvnw.cmd`. Repositorio Git local inicializado en la rama `main`.
-- Siguiente: David hace el primer commit, crea el repositorio en GitHub y hace el primer push.
-- Después: primer hito técnico, capturar audio de un dispositivo de entrada y mostrar la transcripción en la consola.
+- Hecho: esqueleto del proyecto Maven con paquetes MVC, Maven Wrapper, `.gitignore`, README y este archivo. Compila con `mvnw.cmd`. Publicado en https://github.com/davidgesc06/live-sign-subtitles (repositorio público, rama `main`).
+- Git en este PC: cuenta `davidgesc06`, indicada en la URL del remoto porque el gestor de credenciales también guarda `davgon29`.
+- Siguiente: primer hito técnico, capturar audio de un dispositivo de entrada y mostrar la transcripción en la consola. Diseño propuesto a David, pendiente de su OK.

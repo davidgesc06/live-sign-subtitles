@@ -26,7 +26,7 @@ The project follows MVC:
 Requires JDK 21 or later. Windows:
 
 ```bat
-mvnw.cmd compile
+.\mvnw.cmd compile
 java -cp target/classes io.github.davidgesc06.livesign.App
 ```
 
